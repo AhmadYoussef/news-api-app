@@ -1,0 +1,12 @@
+.app{
+    display: flex;
+    flex-direction: column;
+    header{
+        display: flex;
+        justify-content: space-between;
+        background-color: gainsboro;
+        padding: 13px 0 ;
+        text-align: center;
+        font-size: 30px;
+    }
+}

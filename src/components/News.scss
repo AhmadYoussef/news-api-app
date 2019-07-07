@@ -1,0 +1,17 @@
+.news{
+    display: block;
+    width: 23%;
+    text-decoration: none;
+    &:link{
+        text-decoration: none;
+    }
+    img{
+        width: 100%;
+    }
+    h4{
+        font-size: 0.9em;
+    }
+    p{
+        font-size: 0.9em;
+    }
+}
